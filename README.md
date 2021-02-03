@@ -1,2 +1,3 @@
 # Alpha
-e commerce
+e commerce website
+first project
